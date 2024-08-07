@@ -1,0 +1,34 @@
+{
+  "musics": [
+    {
+      "id": "1",
+      "title": "Song Title 1",
+      "artist": "Artist 1",
+      "genre": "Genre 1"
+    },
+    {
+      "id": "3",
+      "title": "Song Title 3",
+      "artist": "Artist 3",
+      "genre": "Genre 3"
+    },
+    {
+      "id": "2",
+      "title": "song title iddds",
+      "artist": "",
+      "genre": ""
+    },
+    {
+      "id": "2",
+      "title": "song title iddds",
+      "artist": "",
+      "genre": ""
+    },
+    {
+      "id": "5",
+      "title": "gokul",
+      "artist": "janani",
+      "genre": "gokul janani"
+    }
+  ]
+}
